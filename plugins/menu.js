@@ -38,6 +38,8 @@ const defaultMenu = {
 │ 🦸🏼‍♂️ Role : *%role*
 │ 🔼 Level : *%level (%exp / %maxexp)*
 │ 💫 Total XP : %totalexp ✨
+│
+│🎀 Link Grup : https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib
 │ 
 │ 📅 Tanggal: *%week, %date*
 │ 🕰️ Waktu: *%time*
