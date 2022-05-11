@@ -30,11 +30,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com_'
+global.sig = 'https://instagram.com/nelson_randanan'
 global.sgh = 'https://github.com/'
 global.sgc = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib'
 global.sdc = 'https://discord.'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = 'https://vt.tiktok.com/ZSd5Sc1Jc/'
 
 /*============== PAYMENT ==============*/
 global.pdana = '081241100804'
@@ -111,10 +111,10 @@ global.author = '             「 𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃 あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/28f893cbdb5437496876c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/28f893cbdb5437496876c.jpg'
-global.giflogo = 'https://telegra.ph/file/50bf096a9a8a5ccb84398.mp4'
-global.thumbs = ['https://telegra.ph/file/28f893cbdb5437496876c.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumb = 'https://telegra.ph/file/f773cdd3a31c5f051cf1b.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/f773cdd3a31c5f051cf1b.jpg'
+global.giflogo = 'https://telegra.ph/file/f773cdd3a31c5f051cf1b.jpg'
+global.thumbs = ['https://telegra.ph/file/f773cdd3a31c5f051cf1b.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
