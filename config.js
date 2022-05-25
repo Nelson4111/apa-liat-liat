@@ -107,8 +107,8 @@ global.wm3 = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
 global.botdate = ` 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '             「 𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃 あ⁩ 」'
-
+global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
+global.author = 'By Nelson'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/f773cdd3a31c5f051cf1b.jpg' //Main Thumbnail
