@@ -662,7 +662,7 @@ export async function participantsUpdate({ id, participants, action }) {
     switch (action) {
         case 'add':
         case 'remove':
-            if (chat.welcome) {
+
                 let groupMetadata = await this.groupMetadata(id) || (conn.chats[id] || {}).metadata
                 for (let user of participants) {
                     let pp = './src/avatar_contact.png'
@@ -679,7 +679,7 @@ export async function participantsUpdate({ id, participants, action }) {
       [null, null]
     ], null, false, { mentions: [user] })
                     }
-                }
+                
             }
             break
         case 'promote':
